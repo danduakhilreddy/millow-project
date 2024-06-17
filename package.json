@@ -12,11 +12,14 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "http://danduakhilreddy.github.io/millow-project",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -39,6 +42,7 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "@openzeppelin/contracts": "^4.7.3",
+    "gh-pages": "^6.1.1",
     "hardhat": "^2.12.0"
   }
 }
