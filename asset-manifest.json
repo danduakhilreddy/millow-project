@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/millow-project/static/css/main.b2796f3e.css",
+    "main.js": "/millow-project/static/js/main.16cbfde4.js",
+    "static/js/453.39510d1e.chunk.js": "/millow-project/static/js/453.39510d1e.chunk.js",
+    "static/media/houses.png": "/millow-project/static/media/houses.4d3bb237fb5a23c27d5a.png",
+    "static/media/logo.svg": "/millow-project/static/media/logo.d723edf07b3a4df9be9647ffbe504ad1.svg",
+    "index.html": "/millow-project/index.html",
+    "static/media/close.svg": "/millow-project/static/media/close.ae469738e479d31aa952364e12120ad2.svg",
+    "main.b2796f3e.css.map": "/millow-project/static/css/main.b2796f3e.css.map",
+    "main.16cbfde4.js.map": "/millow-project/static/js/main.16cbfde4.js.map",
+    "453.39510d1e.chunk.js.map": "/millow-project/static/js/453.39510d1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2796f3e.css",
+    "static/js/main.16cbfde4.js"
+  ]
+}
